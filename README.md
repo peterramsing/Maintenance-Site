@@ -4,6 +4,8 @@ This is used for when we need to disable the entire site and point the DNS somew
 
 This is an Express JS app that will take URLs and then return the maintenance site based on the url.
 
+You can read an in-depth use case for this on Peter's site. [peter.coffee/maintenance-site-with-express-and-pug](http://peter.coffee/maintenance-site-with-express-and-pug)
+
 ## Install and running this
 1. `$ git clone git@github.com:NaturalPoint/Maintenance-Site.git`
 2. `$ cd maintenance-mode`

@@ -11,6 +11,10 @@
     "Pug",
     "Site"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NaturalPoint/Maintenance-Site.git"
+  },
   "author": "NaturalPoint, Peter Ramsing",
   "license": "MIT",
   "dependencies": {

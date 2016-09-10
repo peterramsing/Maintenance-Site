@@ -1,0 +1,20 @@
+{
+  "name": "maintenance-site",
+  "version": "0.1.0",
+  "description": "An Express app using Pug that will display differently branded \"outage\" sites based on the domain requesting it.",
+  "main": "index.js",
+  "scripts": {
+    "start": "sudo node index.js"
+  },
+  "keywords": [
+    "Express",
+    "Pug",
+    "Site"
+  ],
+  "author": "NaturalPoint, Peter Ramsing",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "pug": "^2.0.0-beta6"
+  }
+}
